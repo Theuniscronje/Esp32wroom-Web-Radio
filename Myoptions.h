@@ -51,7 +51,6 @@
 /*H4L - Centre Pad + Right Pad
 /*H3L - Centre Pad + Left Pad
 
-Front of board
-
-SCK + BCK
+/*Front of board solder pads as follows
+/* SCK + BCK (Solder both pads to join them together )
 
